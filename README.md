@@ -1,7 +1,7 @@
 # About Me
 
 <div align="center">
-  <img alt="Artur Hrytchyn" src='./img/Artur_img.jpeg' width="300px" height="350px"/>
+  <img alt="Artur Hrytchyn" src='./img/Artur_img.jpeg' width="400px" />
 </div>
 
 Hello! 👋 My name is Artur Gritcin, and I am passionate about web development
