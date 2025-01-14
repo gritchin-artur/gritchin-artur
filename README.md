@@ -1,6 +1,8 @@
 # About Me
 
-<img alt="Artur Hrytchyn" src='./img/Artur_img.jpeg' width="200px" height="250px"/>
+<div align="center">
+  <img alt="Artur Hrytchyn" src='./img/Artur_img.jpeg' width="300px" height="350px"/>
+</div>
 
 Hello! 👋 My name is Artur Gritcin, and I am passionate about web development
 and continuous learning. I’m currently studying at BF FrontEnd class 2025, where
