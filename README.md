@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello! My name is Artur Gritcin, and I am passionate about web development
+Hello! My name is Artur Hrytchyn, and I am passionate about web development
 and continuous learning. I’m currently studying at BF FrontEnd class 2025, where
 I am enhancing my skills in modern front-end technologies and best practices.
 
